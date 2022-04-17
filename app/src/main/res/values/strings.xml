@@ -1,0 +1,9 @@
+<resources>
+    <string name="page1">Portal Fiap</string>
+    <string name="page2">Lista Cursos MBA</string>
+    <string name="page3">Cadastro de Cursos MBA</string>
+
+    <string name="nm_curso">Nome Curso:</string>
+    <string name="un_campos">Campus:</string>
+    <string name="valor_unidade">Valor Curso:</string>
+</resources>
